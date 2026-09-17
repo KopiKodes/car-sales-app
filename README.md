@@ -2,6 +2,11 @@
 
 This project is an interactive web application for exploring a dataset of used vehicle advertisements in the United States. The dashboard allows users to visualize patterns in vehicle prices, model years, and odometer readings.
 
+## Live Application
+
+View the deployed application on Render:
+https://car-sales-app-8jq1.onrender.com
+
 ## Features
 
 - Interactive histogram showing the distribution of vehicle prices
